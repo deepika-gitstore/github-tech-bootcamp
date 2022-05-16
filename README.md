@@ -1,4 +1,4 @@
-# GitHub Overview Bootcamp
+# GitHub Technical Bootcamp
 
 Welcome to the Bootcamp
 
@@ -6,26 +6,34 @@ Welcome to the Bootcamp
 
 ### Day 1
 
-- Getting started
-- GitHub Offerings
-- Competitive landscape & roadmap
-- Designing your organization for adoption
-- Idea to Code
-- Markdown
-- Discussions
-- Issues
-- Pages
-- Project boards
-- Notifications
+- GitHub overview story
+- Lab: Setting up your repository
+- Migrations Overview
+- GitHub Actions
+- Lab: Create Action workflow
+- Codespaces
+- Lab: Create codespace
 
 ### Day 2
 
-- Code to Cloud
-- Integrating security
-- Pull requests
-- Actions (CI, Code scanning)
-- Reviews & CODEOWNERS
-- Deployment (Actions, secrets, packages)
-- Migrations
+- Co-pilot
+- Demo: Use co-pilot
+- Migrations with Valet
+- Lab: Migrations with Valet using Codespaces
+- Customizing Valet - custom mapping
+- Lab: Valet adding custom mappings
+
+### Day 3
+
+- GHAS - comprehensive introduction
+- Lab: Dependabot
+- Secret scanning overview
+- Code scanning
+- Lab: Secret scanning and code scanning
+- Security overview
+- CodeQL overview
+- Rolling out GHAS in your organization
+
+
 
 
